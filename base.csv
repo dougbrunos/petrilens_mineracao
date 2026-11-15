@@ -1,0 +1,545 @@
+ID,Sample Accession,Run Accession,Run (Long read) Accession,Collection Year,Collection Month,Collection Day,Source Niche,Source Type,Source Details,Country,Region,LONG READS,Source Lab,ST,Serovar
+BRCH23-C1A01,ERS9927270,ERR8025255,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,11,Enteritidis
+BRCH23-C1A02,ERS9927208,ERR8025192,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C1A03,ERS9927221,ERR8025206,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,964,Poona
+BRCH23-C1A04,ERS9927308,ERR8025296,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,319,Tennessee
+BRCH23-C1A05,ERS9927287,ERR8025273,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C1A06,ERS9927321,ERR8025309,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,24,Javiana
+BRCH23-C1A07,ERS9927245,ERR8025230,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,329,Ohio
+BRCH23-C1A08,ERS9927267,ERR8025252,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C1A09,ERS9927261,ERR8025246,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,64,Anatum
+BRCH23-C1A10,ERS9927262,ERR8025247,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Muenchen
+BRCH23-C1A11,ERS9927206,ERR8025190,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C1A12,ERS9927304,ERR8025291,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,48,Panama
+BRCH23-C1B01,ERS9927197,ERR8025181,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1B02,ERS9927311,ERR8025299,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C1B03,ERS9927355,ERR8025362,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Rio Grande do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C1B04,ERS9927341,ERR8025329,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Give
+BRCH23-C1B05,ERS9927315,ERR8025303,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,11,Enteritidis
+BRCH23-C1B06,ERS9927247,ERR8025232,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C1B07,ERS9927319,ERR8025307,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Kentucky
+BRCH23-C1B08,ERS9927345,ERR8025335,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Senftenberg
+BRCH23-C1B09,ERS9927286,ERR8025271,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C1B10,ERS9927246,ERR8025231,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,367,Cerro
+BRCH23-C1B11,ERS9927322,ERR8025310,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1B12,ERS9927187,ERR8025171,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Enteritidis
+BRCH23-C1C01,ERS9927329,ERR8025317,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C1C02,ERS9927292,ERR8025279,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1C03,ERS9927233,ERR8025218,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Rio Grande do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1C04,ERS9927234,ERR8025219,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,544,Molade
+BRCH23-C1C05,ERS9927275,ERR8025260,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,654,Give
+BRCH23-C1C06,ERS9927340,ERR8025328,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,367,Cerro
+BRCH23-C1C07,ERS9927272,ERR8025257,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Braenderup
+BRCH23-C1C08,ERS9927204,ERR8025188,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C1C09,ERS9927228,ERR8025213,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1C10,ERS9927199,ERR8025183,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,367,Cerro
+BRCH23-C1C11,ERS9927241,ERR8025226,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,65,Brandenburg
+BRCH23-C1C12,ERS9927214,ERR8025198,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,469,Rissen
+BRCH23-C1D01,ERS9927309,ERR8025297,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1D02,ERS9927217,ERR8025202,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C1D03,ERS9927207,ERR8025191,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Rio Grande do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1D04,ERS9927288,ERR8025274,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,469,Rissen
+BRCH23-C1D05,ERS9927366,ERR8025373,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,45,Newport
+BRCH23-C1D06,ERS9927354,ERR8025361,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,24,Javiana
+BRCH23-C1D07,ERS9927364,ERR8025371,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1D09,ERS9927299,ERR8025286,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1D10,ERS9927190,ERR8025174,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1D11,ERS9927210,ERR8025194,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Fresno
+BRCH23-C1D12,ERS9927242,ERR8025227,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,19,Typhimurium
+BRCH23-C1E01,ERS9927326,ERR8025314,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1E02,ERS9927295,ERR8025282,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1E03,ERS9927331,ERR8025319,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1E04,ERS9927316,ERR8025304,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Ohio
+BRCH23-C1E05,ERS9927278,ERR8025263,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1E06,ERS9927336,ERR8025324,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Albany
+BRCH23-C1E07,ERS9927255,ERR8025240,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,50,Saintpaul
+BRCH23-C1E08,ERS9927277,ERR8025262,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,64,Anatum
+BRCH23-C1E09,ERS9927276,ERR8025261,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,112,Muenchen
+BRCH23-C1E10,ERS9927201,ERR8025185,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1E11,ERS9927195,ERR8025179,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,897,Bredeney
+BRCH23-C1E12,ERS9927306,ERR8025294,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Typhimurium
+BRCH23-C1F01,ERS9927191,ERR8025175,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1F02,ERS9927360,ERR8025367,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1F03,ERS9927290,ERR8025277,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,463,Meleagridis
+BRCH23-C1F04,ERS9927347,ERR8026288,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1F05,ERS9927333,ERR8025321,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1F06,ERS9927232,ERR8025217,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,5336,Sandiego
+BRCH23-C1F07,ERS9927283,ERR8026770,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,1541,Corvallis
+BRCH23-C1F08,ERS9927203,ERR8025187,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1F09,ERS9927365,ERR8025372,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Senftenberg
+BRCH23-C1F10,ERS9927361,ERR8025368,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1F11,ERS9927323,ERR8025311,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,11,Enteritidis
+BRCH23-C1F12,ERS9927325,ERR8025313,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C1G01,ERS9927279,ERR8025264,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C1G02,ERS9927213,ERR8025197,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1G03,ERS9927254,ERR8025239,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Ohio
+BRCH23-C1G04,ERS9927216,ERR8025200,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Muenchen
+BRCH23-C1G05,ERS9927269,ERR8025254,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C1G06,ERS9927303,ERR8025290,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,24,Javiana
+BRCH23-C1G07,ERS9927343,ERR8025332,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1G08,ERS9927226,ERR8025211,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C1G09,ERS9927320,ERR8025308,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,152,Kentucky
+BRCH23-C1G10,ERS9927249,ERR8025234,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,544,Molade
+BRCH23-C1G11,ERS9927310,ERR8025298,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Typhimurium
+BRCH23-C1G12,ERS9927305,ERR8025293,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,1593,Cerro
+BRCH23-C1H02,ERS9927332,ERR8025320,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1H03,ERS9927294,ERR8025281,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,319,Tennessee
+BRCH23-C1H04,ERS9927271,ERR8025256,NA,2012,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,65,Brandenburg
+BRCH23-C1H05,ERS9927230,ERR8025215,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C1H06,ERS9927252,ERR8025237,NA,2013,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Give
+BRCH23-C1H07,ERS9927237,ERR8025222,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C1H08,ERS9927281,ERR8025266,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,457,Livingstone
+BRCH23-C1H09,ERS9927225,ERR8025210,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,152,Kentucky
+BRCH23-C1H10,ERS9927358,ERR8025365,NA,2015,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C1H11,ERS9927239,ERR8025224,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C1H12,ERS9927298,ERR8025285,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,32,Infantis
+BRCH23-C2A01,ERS9927297,ERR8025284,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Schwarzengrund
+BRCH23-C2A02,ERS9927265,ERR8025250,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2A03,ERS9927257,ERR8025242,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Worthington
+BRCH23-C2A06,ERS9927209,ERR8025193,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,32,Infantis
+BRCH23-C2A07,ERS9927352,ERR8025359,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Bahia,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2A08,ERS9927244,ERR8025229,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2A09,ERS9927215,ERR8025199,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Bahia,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2A10,ERS9927334,ERR8025322,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2A11,ERS9927359,ERR8025366,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,45,Newport
+BRCH23-C2A12,ERS9927335,ERR8025323,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,319,Tennessee
+BRCH23-C2B01,ERS9927348,ERR8025337,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2B02,ERS9927266,ERR8025251,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Muenchen
+BRCH23-C2B03,ERS9927351,ERR8025340,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Panama
+BRCH23-C2B05,ERS9927224,ERR8025209,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2B06,ERS9927282,ERR8025267,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2B07,ERS9927328,ERR8025316,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Tocantins,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Minnesota
+BRCH23-C2B08,ERS9927243,ERR8025228,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2B09,ERS9927231,ERR8025216,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,1610,Ouakam
+BRCH23-C2B10,ERS9927293,ERR8025280,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2B11,ERS9927223,ERR8025208,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2B12,ERS9927284,ERR8025269,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,1549,Altona
+BRCH23-C2C01,ERS9927369,ERR8025376,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,22,Braenderup
+BRCH23-C2C02,ERS9927263,ERR8025248,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C2C05,ERS9927236,ERR8025221,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2C06,ERS9927196,ERR8025180,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,592,Worthington
+BRCH23-C2C07,ERS9927192,ERR8025176,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Tocantins,NO,University of Sao Paulo / Quadram Institute Bioscience,2803,Albany
+BRCH23-C2C08,ERS9927251,ERR8025236,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,544,Molade
+BRCH23-C2C09,ERS9927363,ERR8025370,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,1541,Corvallis
+BRCH23-C2C10,ERS9927256,ERR8025241,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,1610,Ouakam
+BRCH23-C2C11,ERS9927258,ERR8025243,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,1549,Altona
+BRCH23-C2C12,ERS9927330,ERR8025318,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,185,Senftenberg
+BRCH23-C2D01,ERS9927198,ERR8025182,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Parana,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C2D04,ERS9927248,ERR8025233,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C2D06,ERS9927285,ERR8025270,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Tocantins,NO,University of Sao Paulo / Quadram Institute Bioscience,22,Braenderup
+BRCH23-C2D07,ERS9927202,ERR8025186,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Schwarzengrund
+BRCH23-C2D08,ERS9927339,ERR8025327,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C2D09,ERS9927313,ERR8025301,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2D10,ERS9927346,ERR8025336,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Bahia,NO,University of Sao Paulo / Quadram Institute Bioscience,329,Ohio
+BRCH23-C2D11,ERS9927362,ERR8025369,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Minnesota
+BRCH23-C2D12,ERS9927318,ERR8025306,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2E01,ERS9927296,ERR8025283,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,185,Senftenberg
+BRCH23-C2E02,ERS9927367,ERR8025374,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C2E03,ERS9927301,ERR8025288,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Minnesota
+BRCH23-C2E06,ERS9927268,ERR8025253,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Tocantins,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Braenderup
+BRCH23-C2E08,ERS9927350,ERR8025339,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Schwarzengrund
+BRCH23-C2E09,ERS9927240,ERR8025225,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Minnesota
+BRCH23-C2E10,ERS9927289,ERR8025275,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2E11,ERS9927337,ERR8025325,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2E12,ERS9927220,ERR8025205,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2F01,ERS9927189,ERR8025173,NA,2016,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Santa Catarina,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Ouakam
+BRCH23-C2F02,ERS9927229,ERR8025214,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,14,Senftenberg
+BRCH23-C2F03,ERS9927218,ERR8025203,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2F04,ERS9927273,ERR8025258,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2F05,ERS9927205,ERR8025189,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2F06,ERS9927219,ERR8025204,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Tocantins,NO,University of Sao Paulo / Quadram Institute Bioscience,279,"I 4,[5],12:d:-"
+BRCH23-C2F07,ERS9927259,ERR8025244,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,2519,Glostrup
+BRCH23-C2F08,ERS9927227,ERR8025212,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2F09,ERS9927357,ERR8025364,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Espirito Santo,NO,University of Sao Paulo / Quadram Institute Bioscience,241,Bredeney
+BRCH23-C2F10,ERS9927274,ERR8025259,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2F11,ERS9927344,ERR8025334,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C2F12,ERS9927327,ERR8025315,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,64,Anatum
+BRCH23-C2G01,ERS9927368,ERR8025375,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso do Sul,NO,University of Sao Paulo / Quadram Institute Bioscience,22,Braenderup
+BRCH23-C2G02,ERS9927300,ERR8025287,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2G04,ERS9927194,ERR8025178,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Minnesota
+BRCH23-C2G05,ERS9927349,ERR8025338,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2G06,ERS9927312,ERR8025300,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2G07,ERS9927302,ERR8025289,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2G08,ERS9927238,ERR8025223,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,1610,Ouakam
+BRCH23-C2G09,ERS9927356,ERR8025363,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Anatum
+BRCH23-C2G10,ERS9927188,ERR8025172,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH23-C2G11,ERS9927193,ERR8025177,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,48,Panama
+BRCH23-C2G12,ERS9927338,ERR8025326,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Bahia,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2H01,ERS9927314,ERR8025302,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Mato Grosso,NO,University of Sao Paulo / Quadram Institute Bioscience,32,Infantis
+BRCH23-C2H02,ERS9927280,ERR8025265,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Bahia,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2H03,ERS9927212,ERR8025196,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,96,Schwarzengrund
+BRCH23-C2H05,ERS9927307,ERR8025295,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH23-C2H06,ERS9927250,ERR8025235,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,District Federal,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Heidelberg
+BRCH23-C2H07,ERS9927253,ERR8025238,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,64,Anatum
+BRCH23-C2H08,ERS9927260,ERR8025245,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,1610,Ouakam
+BRCH23-C2H09,ERS9927235,ERR8025220,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Schwarzengrund
+BRCH23-C2H10,ERS9927200,ERR8025184,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2H11,ERS9927222,ERR8025207,NA,2018,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Bahia,NO,University of Sao Paulo / Quadram Institute Bioscience,15,Heidelberg
+BRCH23-C2H12,ERS9927353,ERR8025360,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,50,Saintpaul
+BRCH24-EA05,ERS9927342,ERR8025331,NA,NA,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,NA,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Anatum
+BRCH24-EB05,ERS9927264,ERR8025249,NA,NA,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,NA,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Sandiego
+BRCH24-EH04,ERS9927317,ERR8025305,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Goias,NO,University of Sao Paulo / Quadram Institute Bioscience,548,Minnesota
+BRCH24-MF06,ERS9927324,ERR8025312,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Para,NO,University of Sao Paulo / Quadram Institute Bioscience,Unknown,Minnesota
+BRCH24-MG06,ERS9927291,ERR8025278,NA,2014,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Sao Paulo,NO,University of Sao Paulo / Quadram Institute Bioscience,413,Mbandaka
+BRCH24-MH06,ERS9927211,ERR8025195,NA,2017,NA,NA,Poultry,Avian,Broiler chicken faeces,Brazil,Minas Gerais,NO,University of Sao Paulo / Quadram Institute Bioscience,592,Worthington
+L00037-19,ERS7357245,ERR6458103,NA,2019,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,United Kingdom,NA,NO,APHA,548,Minnesota
+L00223-12,ERS7357246,ERR6458104,NA,2012,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,United Kingdom,NA,NO,APHA,548,Minnesota
+L00925-13,ERS7357215,ERR6458105,NA,2013,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+L00992-13,ERS7357216,ERR6458106,NA,2013,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+L01529-16,ERS7357247,ERR6458107,NA,2016,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,Unknown,NA,NO,APHA,548,Minnesota
+L01552-07,ERS7357248,ERR6458108,NA,2007,NA,NA,Other/Veg/Mineral,Feed,Feed mill,United Kingdom,NA,NO,APHA,548,Minnesota
+L02220-14,ERS7357249,ERR6458109,NA,2014,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,548,Minnesota
+L04099-18,ERS7357250,ERR6458110,NA,2018,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,United Kingdom,NA,NO,APHA,548,Minnesota
+L04178-18,ERS7357251,ERR6458111,NA,2018,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,United Kingdom,NA,NO,APHA,548,Minnesota
+S00176-02,ERS7357217,ERR6458112,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S00233-02,ERS7357218,ERR6458113,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S00610-99,ERS7357219,ERR6458114,NA,1999,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S00701-02,ERS7357220,ERR6458115,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S00726-01,ERS7357221,ERR6458116,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S02136-02,ERS7357222,ERR6458117,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S02215-02,ERS7357223,ERR6458118,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S03121-01,ERS7357224,ERR6458119,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S03158-02,ERS7357225,ERR6458120,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S03178-18,ERS7357252,ERR6458121,NA,2018,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,United Kingdom,NA,NO,APHA,548,Minnesota
+S03484-01,ERS7357226,ERR6458122,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S03553-02,ERS7357227,ERR6458123,NA,2002,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+S03718-01,ERS7357228,ERR6458124,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S03915-01,ERS7357229,ERR6458125,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+S03924-07,ERS7357230,ERR6458126,NA,2007,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+S04011-01,ERS7357231,ERR6458127,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S04029-07,ERS7357232,ERR6458128,NA,2007,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S04030-07,ERS7357233,ERR6458129,NA,2007,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S04030-10,ERS7357253,ERR6458130,NA,2010,NA,NA,Other/Veg/Mineral,Other/Veg/Mineral,Other/Veg/Mineral,United Kingdom,NA,NO,APHA,Unknown,Minnesota
+S04196-01,ERS7357234,ERR6458131,NA,2001,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S05060-99,ERS7357235,ERR6458132,NA,1999,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+S05061-99,ERS7357236,ERR6458133,NA,1999,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S05365-00,ERS7357237,ERR6458134,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S05454-00,ERS7357238,ERR6458135,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+S05474-97,ERS7357239,ERR6458136,NA,1997,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+S05618-00,ERS7357240,ERR6458137,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S05693-00,ERS7357241,ERR6458138,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S05696-00,ERS7357242,ERR6458139,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S07038-00,ERS7357243,ERR6458140,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,15,Heidelberg
+S07042-00,ERS7357244,ERR6458141,NA,2000,NA,NA,Poultry,Avian,Chicken,United Kingdom,NA,NO,APHA,Unknown,Heidelberg
+SRR1957962*,SRS897996,SRS3543064,ERR8050531,2014,9,NA,Human,Human,Homo sapiens; human,United Kingdom,NA,YES,UK Health Security Agency,Unknown,Minnesota
+SRR1968390,SRS904992,SRR1968390,NA,2014,04,05,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5215862*,SRS1946935,SRR5215862,ERR8050531,2016,8,NA,Human,Human,Homo sapiens; human,United Kingdom,NA,YES,UK Health Security Agency,Unknown,Minnesota
+SRR5583081,SRS2214342 ,SRR5583081,NA,2017,05,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5583084,SRS2214344,SRR5583084,NA,2017,05,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5583123,SRS2214383,SRR5583123,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5583821,SRS2215069,SRR5583821,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5583955,SRS2215201,SRR5583955,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5584049,SRS2215296,SRR5584049,NA,2017,04,13,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5584094,SRS2215340,SRR5584094,NA,2017,05,03,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5584590,SRS2215839,SRR5584590,NA,2017,04,12,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5584684,SRS2215917,SRR5584684,NA,2017,04,18,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5584758,SRS2215991,SRR5584758,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5584830,SRS2216064,SRR5584830,NA,2017,04,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5584868,SRS2216101,SRR5584868,NA,2017,04,07,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Minnesota
+SRR5584952,SRS2216185,SRR5584952,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5584998,SRS2216231,SRR5584998,NA,2017,05,05,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5585036,SRS2216268,SRR5585036,NA,2017,04,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585050,SRS2216282,SRR5585050,NA,2017,04,10,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585076,SRS2216308,SRR5585076,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585127,SRS2216359,SRR5585127,NA,2017,04,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585135,SRS2216368,SRR5585135,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585192,SRS2216424,SRR5585192,NA,2017,04,10,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585228,SRS2216460,SRR5585228,NA,2017,02,13,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585239,SRS2216472,SRR5585239,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5585257,SRS2216490,SRR5585257,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5585331,SRS2216564,SRR5585331,NA,2017,04,07,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Minnesota
+SRR5585377,SRS2216610,SRR5585377,NA,2017,04,07,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Minnesota
+SRR5631592,SRS2241615,SRR5631592,NA,2017,05,05,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5631604,SRS2241627,SRR5631604,NA,2017,04,18,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5631653,SRS2241677,SRR5631653,NA,2017,02,13,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5631669,SRS2241687,SRR5631669,NA,2017,02,13,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5632108,SRS2242095,SRR5632108,NA,2017,04,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5632816,SRS2242789,SRR5632816,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5632970,SRS2242944,SRR5632970,NA,2017,05,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5633077,SRS2243049,SRR5633077,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5633085,SRS2243058,SRR5633085,NA,2017,02,13,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5633088,SRS2243061,SRR5633088,NA,2017,02,13,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5633101,SRS2243074,SRR5633101,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR5633111,SRS2243084,SRR5633111,NA,2017,04,07,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR5633133,SRS2243106,SRR5633133,NA,2017,02,13,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5633236,SRS2243209,SRR5633236,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR5633396,SRS2243369,SRR5633396,NA,2017,02,13,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR6190513,SRS2608141,SRR6190513,NA,2017,05,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,32,Infantis
+SRR6193002,SRS2610429,SRR6193002,NA,2015,09,25,Food,Swine,Pigs ears,Brazil (import),NA,NO,UK Health Security Agency,32,Infantis
+SRR6900963,SRS3094410,SRR6900963,NA,2017,05,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Enteritidis
+SRR7284447*,SRS3399361,SRR7284447,ERR8050505,2016,8,NA,Human,Human,Homo sapiens; human,United Kingdom,NA,YES,UK Health Security Agency,548,Minnesota
+SRR7439564,SRS3469573,SRR7439564,NA,2017,04,10,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7465062,SRS3496430,SRR7465062,NA,2017,06,22,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501126,SRS3528845,SRR7501126,NA,2018,02,19,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501145,SRS3528861,SRR7501145,NA,2018,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501152,SRS3528868,SRR7501152,NA,2017,05,22,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501162,SRS3528878,SRR7501162,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501170,SRS3528886,SRR7501170,NA,2018,06,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501177,SRS3528893,SRR7501177,NA,2018,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501179,SRS3528895,SRR7501179,NA,2017,04,07,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501284,SRS3529000,SRR7501284,NA,2018,05,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501296,SRS3529011,SRR7501296,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501298,SRS3529013,SRR7501298,NA,2017,06,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501299,SRS3529015,SRR7501299,NA,2017,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501313,SRS3529026,SRR7501313,NA,2017,06,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501324,SRS3529040,SRR7501324,NA,2018,01,22,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501325*,ERS9970822,SRR7501325,ERR8050534,2017,05,03,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,YES,UK Health Security Agency,15,Heidelberg
+SRR7501328,SRS3529039,SRR7501328,NA,2017,03,10,Food,Poultry,marinated chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501351,SRS3529062,SRR7501351,NA,2018,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501354,SRS3529065,SRR7501354,NA,2018,01,22,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501402,SRS3529112,SRR7501402,NA,2017,08,18,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501404,SRS3529114,SRR7501404,NA,2017,09,08,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501405,SRS3529115,SRR7501405,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501408,SRS3529118,SRR7501408,NA,2017,06,07,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501425,SRS3529134,SRR7501425,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501510,SRS3529225,SRR7501510,NA,2018,06,04,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501648,SRS3529355,SRR7501648,NA,2017,05,10,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501650,SRS3529356,SRR7501650,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501671,SRS3529373,SRR7501671,NA,2018,06,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501682,SRS3529383,SRR7501682,NA,2017,06,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501691,SRS3529393,SRR7501691,NA,2018,01,17,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501698,SRS3529399,SRR7501698,NA,2017,06,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501700,SRS3529401,SRR7501700,NA,2017,06,22,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501711,SRS3529410,SRR7501711,NA,2017,08,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501714,SRS3529413,SRR7501714,NA,2018,02,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7501715,SRS3529414,SRR7501715,NA,2017,05,25,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,13,Agona
+SRR7501727,SRS3529428,SRR7501727,NA,2018,05,30,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501730,SRS3529431,SRR7501730,NA,2017,05,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501736,SRS3529437,SRR7501736,NA,2017,06,07,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7501737,SRS3529438,SRR7501737,NA,2018,05,30,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7501740,SRS3529441,SRR7501740,NA,2017,05,08,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506429,SRS3533061,SRR7506429,NA,2018,01,17,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7506438,SRS3533066,SRR7506438,NA,2018,05,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506442,SRS3533090,SRR7506442,NA,2017,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7506444,SRS3533073,SRR7506444,NA,2017,06,15,Food,Poultry,Frozen Raw Frozen Boneless Skinless Marinated Chicken Inner Fillets,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7506453,SRS3533089,SRR7506453,NA,2017,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506454,SRS3533082,SRR7506454,NA,2018,02,20,Food,Poultry,Frozen Raw Chicken Half Breast Boneless Skinless Without Inner Fillet,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506732,SRS3533366,SRR7506732,NA,2017,05,22,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Minnesota
+SRR7506739,SRS3533373,SRR7506739,NA,2018,01,11,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7506744,SRS3533378,SRR7506744,NA,2017,04,18,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506747,SRS3533381,SRR7506747,NA,2018,01,11,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506805,SRS3533439,SRR7506805,NA,2018,06,04,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506821,SRS3533455,SRR7506821,NA,2018,02,20,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506825,SRS3533459,SRR7506825,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506829,SRS3533463,SRR7506829,NA,2016,04,04,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,96,Schwarzengrund
+SRR7506831,SRS3533465,SRR7506831,NA,2018,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506863,SRS3533498,SRR7506863,NA,2017,05,25,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Agona
+SRR7506865,SRS3533497,SRR7506865,NA,2017,05,05,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506872,SRS3533505,SRR7506872,NA,2017,05,02,Food,Poultry,Frozen Raw Chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7506909,SRS3533542,SRR7506909,NA,2018,02,20,Food,Poultry,Frozen Raw Chicken Half Breast Boneless Skinless Without Inner Fillet,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506921,SRS3533554,SRR7506921,NA,2017,05,10,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506928*,ERS9970817,SRR7506928,ERR8050520,2017,05,08,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,YES,UK Health Security Agency,Unknown,Heidelberg
+SRR7506939,SRS3533571,SRR7506939,NA,2017,10,27,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506944,SRS3533576,SRR7506944,NA,2018,02,20,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7506973,SRS3533606,SRR7506973,NA,2016,03,21,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,50,Saintpaul
+SRR7507008,SRS3533639,SRR7507008,NA,2018,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7511751,SRS3537951,SRR7511751,NA,2017,09,11,Food,Poultry,Frozen Raw Salted Chicken Breast Fillets,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7511761,SRS3537952,SRR7511761,NA,2017,05,09,Food,Poultry,Frozen Raw Frozen Salted Chicken Breast,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511765,SRS3537956,SRR7511765,NA,2017,08,18,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511769,SRS3537966,SRR7511769,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7511846,SRS3538075,SRR7511846,NA,2017,05,08,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511849,SRS3538097,SRR7511849,NA,2018,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511850,SRS3538089,SRR7511850,NA,2017,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7511852,SRS3538082,SRR7511852,NA,2017,02,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511895,SRS3538131,SRR7511895,NA,2018,01,17,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511930,SRS3538160,SRR7511930,NA,2017,05,26,Food,Poultry,Frozen Raw Salted Chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7511970,SRS3538269,SRR7511970,NA,2017,09,08,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7516246,SRS3542612,SRR7516246,NA,2017,05,08,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7516249,SRS3542607,SRR7516249,NA,2017,06,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516253,SRS3542627,SRR7516253,NA,2017,04,10,Food,Poultry,Frozen Raw Salted (1.2%) Cut Chicken Breast Fillets Skinless Boneless,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516262,SRS3542629,SRR7516262,NA,2017,05,10,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516266,SRS3542636,SRR7516266,NA,2017,04,13,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516286,SRS3542665,SRR7516286,NA,2017,05,03,Food,Poultry,Frozen Half Chicken Breast Boneless Skinless Without Inner Fillet,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516483,SRS3542866,SRR7516483,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7516491,SRS3542861,SRR7516491,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Minnesota
+SRR7516492,SRS3542877,SRR7516492,NA,2018,06,04,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516522,SRS3542887,SRR7516522,NA,2017,05,05,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516528,SRS3542900,SRR7516528,NA,2018,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516529,SRS3542906,SRR7516529,NA,2017,04,21,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516557,SRS3542960,SRR7516557,NA,2017,06,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7516673,SRS3542999,SRR7516673,NA,2017,10,27,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7516707,SRS3543042,SRR7516707,NA,2017,06,07,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7516735,SRS3543056,SRR7516735,NA,2017,05,25,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,13,Agona
+SRR7516742,SRS3543064,SRR7516742,NA,2017,09,28,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7523054,SRS3547431,SRR7523054,NA,2017,07,04,Food,Poultry,Frozen Raw Salted (min1.2%) Cut Chicken Breast Fillets Skinless Boneless,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7523140,SRS3547512,SRR7523140,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7523175,SRS3547546,SRR7523175,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7523223,SRS3547595,SRR7523223,NA,2017,05,25,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,13,Agona
+SRR7523635,SRS3547988,SRR7523635,NA,2017,05,08,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7523679,SRS3548033,SRR7523679,NA,2017,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7523805,SRS3548156,SRR7523805,NA,2018,06,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7523815,SRS3548168,SRR7523815,NA,2016,03,21,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Saintpaul
+SRR7523846,SRS3548198,SRR7523846,NA,2017,05,05,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7527770,SRS3551281,SRR7527770,NA,2017,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7527967,SRS3551478,SRR7527967,NA,2017,05,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7528169,SRS3551680,SRR7528169,NA,2018,06,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7533304,SRS3555772,SRR7533304,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7533346,SRS3555813,SRR7533346,NA,2017,05,02,Food,Poultry,Frozen Raw Chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7533349,SRS3555815,SRR7533349,NA,2017,02,22,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7533524*,SRS3555982,SRR7533524,ERR8050508,2017,06,14,Food,Poultry,Frozen Raw Salted Chicken,Brazil (import),NA,YES,UK Health Security Agency,15,Heidelberg
+SRR7533535,SRS3555993,SRR7533535,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7538314,SRS3560108,SRR7538314,NA,2017,05,25,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,13,Agona
+SRR7538824,SRS3560317,SRR7538824,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7828177,SRS3772940,SRR7828177,NA,2018,08,06,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7828268,SRS3773027,SRR7828268,NA,2018,08,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7828407,SRS3773165,SRR7828407,NA,2018,07,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7828515,SRS3773273,SRR7828515,NA,2018,08,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7841331,SRS3785512,SRR7841331,NA,2018,08,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7841384,SRS3785565,SRR7841384,NA,2018,08,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7841572,SRS3785720,SRR7841572,NA,2018,08,07,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7841621,SRS3785767,SRR7841621,NA,2018,08,21,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7850509,SRS3787592,SRR7850509,NA,2018,08,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7850526,SRS3787609,SRR7850526,NA,2018,07,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7850573,SRS3787656,SRR7850573,NA,2018,08,06,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7850613,SRS3787696,SRR7850613,NA,2018,07,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7850703,SRS3787786,SRR7850703,NA,2018,08,20,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7866922,SRS3791863,SRR7866922,NA,2018,08,06,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7867011,SRS3791953,SRR7867011,NA,2018,08,07,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7867017,SRS3791959,SRR7867017,NA,2018,08,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7867129,SRS3792070,SRR7867129,NA,2018,07,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7867158,SRS3792100,SRR7867158,NA,2018,08,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7867306,SRS3792210,SRR7867306,NA,2018,08,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7873893,SRS3798546,SRR7873893,NA,2018,07,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7873916,SRS3798568,SRR7873916,NA,2018,07,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7873918,SRS3798571,SRR7873918,NA,2018,08,17,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7879366,SRS3803532,SRR7879366,NA,2018,02,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7879475,SRS3803638,SRR7879475,NA,2018,08,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7890500,SRS3811551,SRR7890500,NA,2017,05,22,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7892139,SRS3812148,SRR7892139,NA,2018,04,13,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7892265,SRS3812271,SRR7892265,NA,2017,10,12,Food,Poultry,Frozen boneless skinless chicken breast in halves salted 1.2 -1.6%,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7902634,SRS3820814,SRR7902634,NA,2017,08,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7902694*,SRS3820873,SRR7902694,ERR8050532,2017,5,NA,Food,ND,food,United Kingdom,NA,YES,UK Health Security Agency,15,Heidelberg
+SRR7911440,SRS3827407,SRR7911440,NA,2018,09,10,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7911511,SRS3827476,SRR7911511,NA,2018,09,04,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7962120,SRS3874929,SRR7962120,NA,2018,01,17,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7962183,SRS3874992,SRR7962183,NA,2018,09,10,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7962252,SRS3875061,SRR7962252,NA,2017,06,07,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR7962257,SRS3875066,SRR7962257,NA,2018,09,10,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7996744,SRS3899215,SRR7996744,NA,2018,09,17,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7996762,SRS3899232,SRR7996762,NA,2018,09,18,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR7998248,SRS3899690,SRR7998248,NA,2018,09,17,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR7998256,SRS3899698,SRR7998256,NA,2018,09,17,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8084194,SRS3956963,SRR8084194,NA,2018,10,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8087134,SRS3959468,SRR8087134,NA,2018,09,20,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8087195,SRS3959526,SRR8087195,NA,2018,09,18,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8087216,SRS3959547,SRR8087216,NA,2018,09,20,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8097937,SRS3970017,SRR8097937,NA,2018,09,20,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8106746,SRS3977994,SRR8106746,NA,2018,09,20,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8106756,SRS3978004,SRR8106756,NA,2018,10,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8116968,SRS3985993,SRR8116968,NA,2018,10,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8116986,SRS3986011,SRR8116986,NA,2018,10,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8116991,SRS3986016,SRR8116991,NA,2018,10,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8137377,SRS3998275,SRR8137377,NA,2018,09,10,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8149137,SRS4008527,SRR8149137,NA,2018,10,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8149190,SRS4008578,SRR8149190,NA,2018,10,17,Food,Poultry,Chicken Pieces - Fresh,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8149386,SRS4008679,SRR8149386,NA,2018,10,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8149391,SRS4008681,SRR8149391,NA,2018,10,10,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8149396,SRS4008688,SRR8149396,NA,2018,10,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8166210,SRS4023708,SRR8166210,NA,2018,10,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8166239,SRS4023738,SRR8166239,NA,2018,10,19,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8166251,SRS4023749,SRR8166251,NA,2018,09,28,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8181668,SRS4036343,SRR8181668,NA,2018,10,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8182966,SRS4037340,SRR8182966,NA,2018,10,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8183079,SRS4037453,SRR8183079,NA,2018,10,17,Food,Poultry,Chicken Pieces - Fresh,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8184523,SRS4038870,SRR8184523,NA,2018,10,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8201801,SRS4053942,SRR8201801,NA,2018,10,24,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8201851,SRS4053992,SRR8201851,NA,2018,10,24,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR8204033,SRS4055267,SRR8204033,NA,2018,10,31,Food,Poultry,Frozen chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8204038,SRS4055272,SRR8204038,NA,2018,10,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8204046,SRS4055280,SRR8204046,NA,2018,10,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8204047,SRS4055281,SRR8204047,NA,2018,10,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8204757,SRS4055793,SRR8204757,NA,2018,09,28,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8204775,SRS4055811,SRR8204775,NA,2018,10,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8258034,SRS4088851,SRR8258034,NA,2018,11,07,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8269048,SRS4098313,SRR8269048,NA,2018,10,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8269067,SRS4098332,SRR8269067,NA,2018,11,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8269085,SRS4098350,SRR8269085,NA,2018,11,09,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8272515,SRS4100949,SRR8272515,NA,2018,11,06,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8272619,SRS4101053,SRR8272619,NA,2018,11,06,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8325581,SRS4149693,SRR8325581,NA,2018,11,28,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8325586,SRS4149698,SRR8325586,NA,2018,11,21,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Minnesota
+SRR8333790,SRS4155688,SRR8333790,NA,2018,08,07,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8361487,SRS4179611,SRR8361487,NA,2018,07,27,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8367054,SRS4184638,SRR8367054,NA,2018,08,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8382001,SRS4198011,SRR8382001,NA,2018,07,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8405192,SRS4220945,SRR8405192,NA,2018,07,05,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8427103,SRS4238793,SRR8427103,NA,2018,10,10,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8438016,SRS4247852,SRR8438016,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8438040,SRS4248031,SRR8438040,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8441126,SRS4250640,SRR8441126,NA,2018,07,02,Food,Poultry,Chicken - Frozen Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8445021,SRS4253860,SRR8445021,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8452322,SRS4260143,SRR8452322,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8484234,SRS4288474,SRR8484234,NA,2018,10,17,Food,Poultry,Chicken Pieces - Fresh,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8485188,SRS4289395,SRR8485188,NA,2018,06,29,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8490706,SRS4294439,SRR8490706,NA,2018,06,20,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8490731,SRS4294464,SRR8490731,NA,2018,08,07,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8490749,SRS4294482,SRR8490749,NA,2018,10,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8490781,SRS4294514,SRR8490781,NA,2018,10,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8490815,SRS4294547,SRR8490815,NA,2018,10,08,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8490839,SRS4294571,SRR8490839,NA,2018,11,06,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8492287,SRS4295894,SRR8492287,NA,2018,06,04,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8492338,SRS4295945,SRR8492338,NA,2018,06,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8492356,SRS4295963,SRR8492356,NA,2018,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8492388,SRS4295994,SRR8492388,NA,2018,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8492398,SRS4296004,SRR8492398,NA,2018,06,14,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8492418,SRS4296024,SRR8492418,NA,2018,05,30,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8499033,SRS4301050,SRR8499033,NA,2018,06,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8499341,SRS4301355,SRR8499341,NA,2018,05,31,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8509076,SRS4309944,SRR8509076,NA,2018,04,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Infantis
+SRR8514524,SRS4313988,SRR8514524,NA,2018,01,26,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8514757,SRS4314195,SRR8514757,NA,2018,01,31,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8515711,SRS4315115,SRR8515711,NA,2018,01,17,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8515738,SRS4315141,SRR8515738,NA,2018,02,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8515740,SRS4315143,SRR8515740,NA,2018,01,31,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8515743,SRS4315229,SRR8515743,NA,2018,02,01,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517829,SRS4317141,SRR8517829,NA,2017,02,13,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517830,SRS4317142,SRR8517830,NA,2017,02,13,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517831,SRS4317143,SRR8517831,NA,2017,05,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517832,SRS4317144,SRR8517832,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517833,SRS4317145,SRR8517833,NA,2017,06,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517834,SRS4317146,SRR8517834,NA,2017,06,15,Food,Poultry,Frozen Raw Frozen Boneless Skinless Chicken Breast In Halves (salted 1.2%-1.6%),Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8517835,SRS4317147,SRR8517835,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517836,SRS4317148,SRR8517836,NA,2017,05,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8517837,SRS4317149,SRR8517837,NA,2015,09,25,Food,Swine,Pigs ears,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Give
+SRR8517838,SRS4317150,SRR8517838,NA,2017,05,10,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517839,SRS4317151,SRR8517839,NA,2017,08,26,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517840,SRS4317152,SRR8517840,NA,2017,08,09,Food,Poultry,Frozen Chicken Half Breast Bless Sless Without Inner Fillet Salted,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR8517841,SRS4317153,SRR8517841,NA,2017,02,13,Food,Poultry,Raw chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517842,SRS4317154,SRR8517842,NA,2017,08,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR8517843,SRS4317155,SRR8517843,NA,2017,10,13,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517844,SRS4317156,SRR8517844,NA,2017,05,11,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517845,SRS4317157,SRR8517845,NA,2017,05,02,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517846,SRS4317158,SRR8517846,NA,2017,10,27,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517847,SRS4317159,SRR8517847,NA,2017,09,28,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8517848,SRS4317160,SRR8517848,NA,2017,05,26,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517849,SRS4317161,SRR8517849,NA,2017,06,09,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8517850,SRS4317162,SRR8517850,NA,2017,05,03,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR8517851,SRS4317163,SRR8517851,NA,2017,06,07,Food,Poultry,salted chicken,Brazil (import),NA,NO,UK Health Security Agency,548,Minnesota
+SRR8517852,SRS4317164,SRR8517852,NA,2018,01,26,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8524611,SRS4322197,SRR8524611,NA,2018,01,11,Food,Poultry,Frozen Chicken Half Breast Bl Sl Without Inner Fillet Salted,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8661063*,SRS4432266,SRR8661063,ERR8050514,2016,10,NA,Human,Human,Homo sapiens; human,United Kingdom,NA,YES,UK Health Security Agency,548,Minnesota
+SRR8833188,SRS4567468,SRR8833188,NA,2013,01,25,Food,Poultry,Raw poultry,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8833189,SRS4567469,SRR8833189,NA,2013,09,24,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,65,Brandenburg
+SRR8833277,SRS4567554,SRR8833277,NA,2014,01,23,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,14,Senftenberg
+SRR8833278,SRS4567555,SRR8833278,NA,2016,03,21,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,50,Saintpaul
+SRR8833298,SRS4567575,SRR8833298,NA,2013,06,24,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Agona
+SRR8833299,SRS4567576,SRR8833299,NA,2014,01,15,Food,Poultry,Chicken - Fresh Whole,Brazil (import),NA,NO,UK Health Security Agency,15,Heidelberg
+SRR8833300,SRS4567577,SRR8833300,NA,2017,06,23,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8833363,SRS4567624,SRR8833363,NA,2013,06,24,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,13,Agona
+SRR8833364,SRS4567625,SRR8833364,NA,2013,06,24,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,65,Brandenburg
+SRR8839357,SRS4572494,SRR8839357,NA,2017,04,12,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8839358,SRS4572495,SRR8839358,NA,2017,06,15,Food,Poultry,Chicken Pieces - Frozen,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8856647,SRS4590030,SRR8856647,NA,2014,01,23,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,14,Senftenberg
+SRR8861997,SRS4594775,SRR8861997,NA,2014,01,23,Food,Poultry,Turkey,Brazil (import),NA,NO,UK Health Security Agency,14,Senftenberg
+SRR8863367,SRS4596073,SRR8863367,NA,2009,03,05,Food,Poultry,Dogchew,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Mbandaka
+SRR8863369,SRS4596075,SRR8863369,NA,2013,01,25,Food,Poultry,Raw poultry,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Heidelberg
+SRR8863370,SRS4596076,SRR8863370,NA,2009,02,10,Food,ND,Dogchew,Brazil (import),NA,NO,UK Health Security Agency,316,Montevideo
+SRR8863371,SRS4596077,SRR8863371,NA,2009,03,05,Food,ND,Dogchew,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Senftenberg
+SRR8863374,SRS4596079,SRR8863374,NA,2009,03,05,Food,ND,Dogchew,Brazil (import),NA,NO,UK Health Security Agency,217,Senftenberg
+SRR8863377,SRS4596082,SRR8863377,NA,2009,03,05,Food,ND,Dogchew,Brazil (import),NA,NO,UK Health Security Agency,Unknown,Senftenberg
+SRR8866679,SRS4598884,SRR8866679,NA,2009,03,05,Food,ND,Dogchew,Brazil (import),NA,NO,UK Health Security Agency,217,Senftenberg
+SRR9261107*,SRS4935117,SRR9261107,ERR8050524,2019,5,NA,Food,ND,food,United Kingdom,NA,YES,UK Health Security Agency,15,Heidelberg
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,
+"* Strains with accession numbers SRR8661063, SRR9261107, SRR7501325, SRR7284447, SRR7533524, SRR7902694, SRR5215862, SRR7506928 and SRR1957962 were selected for long-read sequencing as described in Methods.",,,,,,,,,,,,,,,
